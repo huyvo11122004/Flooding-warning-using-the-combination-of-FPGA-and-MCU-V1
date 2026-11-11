@@ -1,12 +1,15 @@
 # Flooding-warning-using-the-combination-of-FPGA-and-MCU
 This project here have just finished using the MCU kit named SN32F407(Sonix company) and FPGA ACG525(Gowin Semiconductor). It works based on accquire the data of 4 sensors: rain using external interuption, water level, wind speed, wind direction. It also contain the module SIM using 4G protocol to upload the datapack to web dashboard to monitoring 
 
-Athours:
-Vo Hoang Huy
-Dang Van Thinh
-Phan Tran Bao Long
-Cao Ngoc Phuong Uyen
-Nguyen Thi Bich Thom
+## Athours:
+**Vo Hoang Huy**
+**Dang Van Thinh**
+**Phan Tran Bao Long**
+**Cao Ngoc Phuong Uyen**
+**Nguyen Thi Bich Thom**
 
-Contact: 
+## Instructor
+**TS. Vũ Vân Thanh**
+
+## Contact: 
 huyvo11122004@gmail.com
